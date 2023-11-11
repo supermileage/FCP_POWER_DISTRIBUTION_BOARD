@@ -714,7 +714,7 @@
     (property "Value" "12V_IN" (at 101.6 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Molex:Molex_Mega-Fit_76825-0004_2x02_P5.70mm_Horizontal" (at 100.33 40.64 0)
+    (property "Footprint" "FCP_Power_Distribution_Custom_Footprints:Molex_MegaFit_20024_1x02_P5.70mm_Horizontal" (at 100.33 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.molex.com/en-us/products/part-detail/2002411212?display=pdf" (at 100.33 40.64 0)
