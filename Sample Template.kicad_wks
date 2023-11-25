@@ -23,7 +23,7 @@
   (tbtext "Id: ${#}/${##}" (name "") (pos 24 4.1) (comment "Sheet id")
 )
   (line (name "") (start 110 12.5) (end 2 12.5))
-  (tbtext "Title: FCP Power Distribution Board 2023-2024" (name "") (pos 109 10.7) (font (size 2 2) bold italic))
+  (tbtext "Title: FCP Power Distribution Board 2025" (name "") (pos 109 10.7) (font (size 2 2) bold italic))
   (tbtext "File: ${FILENAME}" (name "") (pos 109 14.3))
   (line (name "") (start 110 16) (end 2 16))
   (tbtext "UBC Supermileage" (name "") (pos 109 17.5) (font bold) (comment "Company name")
